@@ -21,7 +21,7 @@ warrant a full blog post.
 
 ### Vim
 
-* [Search As You Type](vim/search-as-you-ype.md)
+* [Search As You Type](vim/search-as-you-type.md)
 
 ## About
 
