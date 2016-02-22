@@ -21,6 +21,7 @@ warrant a full blog post.
 
 ### Vim
 
+* [Indent Multiple Lines](vim/indent-multiple-lines.md)
 * [Search As You Type](vim/search-as-you-type.md)
 
 ## About
