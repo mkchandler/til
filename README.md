@@ -27,6 +27,7 @@ warrant a full blog post.
 
 ### Unix
 
+* [Find Files Over Specified Size](unix/find-files-over-specified-size.md)
 * [Total Disk Usage for Directory](unix/total-disk-usage-for-directory.md)
 
 ### Vim
