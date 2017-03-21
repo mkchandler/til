@@ -11,6 +11,7 @@ warrant a full blog post.
 ### Categories
 
 * [Git](#git)
+* [macOS](#macos)
 * [Unix](#unix)
 * [Vim](#vim)
 
@@ -19,6 +20,10 @@ warrant a full blog post.
 ### Git
 
 * [Move Multiple Files](git/move-multiple-files.md)
+
+### macOS
+
+* [Verify SHA Checksum](mac/verify-sha-checksum.md)
 
 ### Unix
 
