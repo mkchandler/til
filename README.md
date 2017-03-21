@@ -11,6 +11,7 @@ warrant a full blog post.
 ### Categories
 
 * [Git](#git)
+* [Unix](#unix)
 * [Vim](#vim)
 
 ---
@@ -18,6 +19,10 @@ warrant a full blog post.
 ### Git
 
 * [Move Multiple Files](git/move-multiple-files.md)
+
+### Unix
+
+* [Total Disk Usage for Directory](unix/total-disk-usage-for-directory.md)
 
 ### Vim
 
@@ -37,7 +42,7 @@ I got this idea from [jbranchaud/til](https://github.com/jbranchaud/til), who go
 
 ## License
 
-&copy; 2016 Matt Chandler
+&copy; 2016-2017 Matt Chandler
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
