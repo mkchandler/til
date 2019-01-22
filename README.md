@@ -23,6 +23,7 @@ warrant a full blog post.
 
 ### macOS
 
+* [Restart GPG Agent](mac/restart-gpg-agent.md)
 * [Verify SHA Checksum](mac/verify-sha-checksum.md)
 
 ### Unix
@@ -48,7 +49,7 @@ I got this idea from [jbranchaud/til](https://github.com/jbranchaud/til), who go
 
 ## License
 
-&copy; 2016-2017 Matt Chandler
+&copy; 2016 Matt Chandler
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
